@@ -4,7 +4,7 @@
             "gender": "female",
             "name": {
                 "title": "HI.html",
-                "first": "IPID_Gokul",
+                "first": "IPID_10000",
                 "last": "A"
             },
             "location": {
@@ -106,9 +106,9 @@
             "value": "05024821864"
         },
         "picture": {
-            "large": "Embedded_Icon.PNG",
-            "medium": "Embedded_Icon.PNG",
-            "thumbnail": "Embedded_Icon.PNG"
+            "large": "content://media/external/downloads/1000212468",
+            "medium": "content://media/external/downloads/1000212468",
+            "thumbnail": "content://media/external/downloads/1000212468"
         },
         "nat": "NO"
     },
@@ -162,9 +162,9 @@
         "value": "05024821864"
     },
     "picture": {
-        "large": "Embedded_Icon.PNG",
-        "medium": "Embedded_Icon.PNG",
-        "thumbnail": "Embedded_Icon.PNG"
+        "large": "content://media/external/downloads/1000212468",
+        "medium": "content://media/external/downloads/1000212468",
+        "thumbnail": "content://media/external/downloads/1000212468"
     },
     "nat": "NO"
 },
@@ -218,9 +218,9 @@
     "value": "05024821864"
 },
 "picture": {
-    "large": "Embedded_Icon.PNG",
-    "medium": "Embedded_Icon.PNG",
-    "thumbnail": "Embedded_Icon.PNG"
+    "large": "content://media/external/downloads/1000212468",
+    "medium": "content://media/external/downloads/1000212468",
+    "thumbnail": "content://media/external/downloads/1000212468"
 },
 "nat": "NO"
 }
