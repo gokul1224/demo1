@@ -106,9 +106,9 @@
             "value": "05024821864"
         },
         "picture": {
-            "large": "content://media/external/downloads/1000212468",
-            "medium": "content://media/external/downloads/1000212468",
-            "thumbnail": "content://media/external/downloads/1000212468"
+            "large": "https://cdn4.iconfinder.com/data/icons/technology-83/1000/embedded_device_embedded_system_internet_embedding_embedded_systems_iot_embedded-512.png",
+            "medium": "https://cdn4.iconfinder.com/data/icons/technology-83/1000/embedded_device_embedded_system_internet_embedding_embedded_systems_iot_embedded-512.png",
+            "thumbnail": "https://cdn4.iconfinder.com/data/icons/technology-83/1000/embedded_device_embedded_system_internet_embedding_embedded_systems_iot_embedded-512.png"
         },
         "nat": "NO"
     },
@@ -162,9 +162,9 @@
         "value": "05024821864"
     },
     "picture": {
-        "large": "content://media/external/downloads/1000212468",
-        "medium": "content://media/external/downloads/1000212468",
-        "thumbnail": "content://media/external/downloads/1000212468"
+        "large": "https://cdn4.iconfinder.com/data/icons/technology-83/1000/embedded_device_embedded_system_internet_embedding_embedded_systems_iot_embedded-512.png",
+        "medium": "https://cdn4.iconfinder.com/data/icons/technology-83/1000/embedded_device_embedded_system_internet_embedding_embedded_systems_iot_embedded-512.png",
+        "thumbnail": "https://cdn4.iconfinder.com/data/icons/technology-83/1000/embedded_device_embedded_system_internet_embedding_embedded_systems_iot_embedded-512.png"
     },
     "nat": "NO"
 },
@@ -218,9 +218,9 @@
     "value": "05024821864"
 },
 "picture": {
-    "large": "content://media/external/downloads/1000212468",
-    "medium": "content://media/external/downloads/1000212468",
-    "thumbnail": "content://media/external/downloads/1000212468"
+    "large": "https://cdn4.iconfinder.com/data/icons/technology-83/1000/embedded_device_embedded_system_internet_embedding_embedded_systems_iot_embedded-512.png",
+    "medium": "https://cdn4.iconfinder.com/data/icons/technology-83/1000/embedded_device_embedded_system_internet_embedding_embedded_systems_iot_embedded-512.png",
+    "thumbnail": "https://cdn4.iconfinder.com/data/icons/technology-83/1000/embedded_device_embedded_system_internet_embedding_embedded_systems_iot_embedded-512.png"
 },
 "nat": "NO"
 }
